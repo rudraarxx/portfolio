@@ -65,7 +65,7 @@ jQuery(document).ready(function($) {
         center: true,
         items: 1,
         loop: true,
-        margin: 0,
+        margin: 20,
         autoplay: true,
         responsive:{
             800:{
